@@ -1,4 +1,4 @@
-# web3.storage
+# web3storagepy
 This is IPFS web3.storage unofficial library written in python. I have made it simple and easier to integrate with web3.storage API using this masterpiece of codes.
 
 [![Releases](https://badgen.net/github/releases/tahaafarooq/web3.storage)](https://github.com/tahaafarooq/web3.storage)
@@ -8,8 +8,8 @@ This is IPFS web3.storage unofficial library written in python. I have made it s
 You can either install it from git, or using pip.
 
 ```shell
-~$ git clone https://github.com/tahaafarooq/web3.storage
-~$ cd web3.storage
+~$ git clone https://github.com/tahaafarooq/web3storagepy
+~$ cd web3storagepy
 ~$ pip3 install -r requirements.txt 
 ~$ python3 setup.py install
 ```
