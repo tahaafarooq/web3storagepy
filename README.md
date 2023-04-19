@@ -1,7 +1,7 @@
 # web3storagepy
 This is IPFS web3.storage unofficial library written in python. I have made it simple and easier to integrate with web3.storage API using this masterpiece of codes.
 
-[![Releases](https://badgen.net/github/releases/tahaafarooq/web3storagepy)](https://github.com/tahaafarooq/web3storagepy)
+[![Releases](https://badgen.net/github/releases/tahaafarooq/web3storagepy)](https://github.com/tahaafarooq/web3storagepy/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Installation
@@ -23,7 +23,7 @@ You can either install it from git, or using pip.
 To upload a file to the IPFS web3 storage API we will do the following;
 
 ```python
->> > import web3storagepy
+>>> import web3storagepy
 >> > w3s = web3storagepy
 >> > upload = w3s.upload(file="XXXXXX", token="XXXXXXX")
 >> > upload
