@@ -4,6 +4,7 @@ This is IPFS web3.storage unofficial library written in python. I have made it s
 [![Releases](https://badgen.net/github/releases/tahaafarooq/web3storagepy)](https://github.com/tahaafarooq/web3storagepy/releases)
 [![Downloads](https://static.pepy.tech/badge/web3storagepy)](https://pepy.tech/project/web3storagepy)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Made in Tanzania](https://img.shields.io/badge/made%20in-tanzania-008751.svg?style=flat-square)](https://github.com/Tanzania-Developers-Community/made-in-tanzania)
 
 ## Installation
 You can either install it from git, or using pip.
